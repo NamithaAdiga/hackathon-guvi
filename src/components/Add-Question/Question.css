@@ -1,0 +1,24 @@
+.add-question{
+    display: flex;
+    width: 100%;
+    background-color: rgba(238,238,238,0.568);
+    height: 100vh;
+    justify-content: center;
+}
+
+.add-question-container{
+    padding: 30px 15px;
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    max-width: 800px;
+}
+
+.head-title{
+    display: flex;
+    width: 100%;
+}
+.button{
+    width: 150px;
+}
+
